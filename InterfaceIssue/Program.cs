@@ -8,7 +8,7 @@ using InterfaceIssue.Types;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
+//Just a random comment
 builder.Services.AddControllers();
 
 builder.Services.AddGraphQLServerCore()
